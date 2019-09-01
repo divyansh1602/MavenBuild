@@ -1,1 +1,2 @@
 This is first Maven build
+Checking automation schedulling for build
